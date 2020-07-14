@@ -1,1 +1,6 @@
-[![saitho's GitHub stats](https://github-readme-stats.vercel.app/api?username=saitho)](https://github.com/anuraghazra/github-readme-stats)
+![saitho's GitHub stats](https://github-readme-stats.vercel.app/api?username=saitho)
+
+## Contributing
+
+[![Gitea, the Open Source GitHub alternative](https://github-readme-stats.vercel.app/api/pin/?username=go-gitea&repo=gitea)](https://github.com/gitea/gitea)
+[![Semantic Release](https://github-readme-stats.vercel.app/api/pin/?username=semantic-release&repo=semantic-release)](https://github.com/semantic-release/semantic-release)
