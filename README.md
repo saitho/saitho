@@ -2,5 +2,5 @@
 
 ## Contributing
 
-[![Gitea, the Open Source GitHub alternative](https://github-readme-stats.vercel.app/api/pin/?username=go-gitea&repo=gitea)](https://github.com/gitea/gitea)
+[![Gitea, the Open Source GitHub alternative](https://github-readme-stats.vercel.app/api/pin/?username=go-gitea&repo=gitea)](https://github.com/go-gitea/gitea)
 [![Semantic Release](https://github-readme-stats.vercel.app/api/pin/?username=semantic-release&repo=semantic-release)](https://github.com/semantic-release/semantic-release)
