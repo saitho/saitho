@@ -1,5 +1,5 @@
-![saitho's GitHub stats](https://github-readme-stats.vercel.app/api?username=saitho)
-![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saitho&hide=c%23,tex)
+[![saitho's GitHub stats](https://github-readme-stats.vercel.app/api?username=saitho)](https://github.com/saitho?tab=repositories)
+[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saitho&hide=c%23,tex)](https://github.com/saitho?tab=repositories)
 
 ## I'm contributing to awesome software
 
