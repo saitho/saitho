@@ -1,4 +1,4 @@
-[![saitho's GitHub stats](https://github-readme-stats.vercel.app/api?username=saitho)](https://github.com/saitho?tab=repositories)
+[![saitho's GitHub stats](https://github-readme-stats.vercel.app/api?username=saitho&include_all_commits=true)](https://github.com/saitho?tab=repositories)
 [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saitho&hide=c%23,tex,c,c%2B%2B)](https://github.com/saitho?tab=repositories)
 
 ## Open Source commitment
