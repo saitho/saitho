@@ -13,14 +13,14 @@ Open-sourcing software goes beyond just pushing some code onto GitHub. That's wh
 
 ## I'm contributing to awesome software
 
-<a href="https://github.com/go-gitea/gitea/pulls?q=is%3Apr+author%3Asaitho">
+<a align="left" href="https://github.com/go-gitea/gitea/pulls?q=is%3Apr+author%3Asaitho">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=go-gitea&repo=gitea" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats/pulls?q=is%3Apr+author%3Asaitho">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 
-<a href="https://github.com/semantic-release/semantic-release/pulls?q=is%3Apr+author%3Asaitho">
+<a align="left" href="https://github.com/semantic-release/semantic-release/pulls?q=is%3Apr+author%3Asaitho">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=semantic-release&repo=semantic-release" />
 </a>
 
