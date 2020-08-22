@@ -23,3 +23,10 @@ Open-sourcing software goes beyond just pushing some code onto GitHub. That's wh
 <a href="https://github.com/anuraghazra/github-readme-stats/pulls?q=is%3Apr+author%3Asaitho">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
+
+
+<details>
+<summary>Other contributions</summary>
+  
+  * [Robo: Modern task runner for PHP](https://github.com/consolidation/Robo/pulls?q=is%3Apr+author%3Asaitho)
+</details>
