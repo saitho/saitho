@@ -10,6 +10,7 @@ Open-sourcing software goes beyond just pushing some code onto GitHub. That's wh
 * My NPM packages: https://www.npmjs.com/~saitho
 
 ![TYPO3 Association Community Member](https://typo3.org/fileadmin/t3o_common_storage/images/badges/community_membership_badge_renderings/community_membership_badge_150x75.png)
+![TYPO3 CMS Certified Integrator](images/TCCI_bagde_small_preview.png)
 
 ## I'm contributing to awesome software
 
