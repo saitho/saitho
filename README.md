@@ -5,7 +5,7 @@
 
 Making software available for others to use and improve is a great thing, which is why I decided to open-source most of my work.
 
-Open-sourcing software goes beyond just pushing some code onto GitHub. That's why I'll **regularly update the dependencies** of my active (i.e. non-archived) repositories each month.
+Open-sourcing software goes beyond just pushing some code onto GitHub. That's why I'll **regularly update the dependencies** of my active repositories each month. Please see my [maintainance project](https://github.com/saitho?tab=projects) for a list of maintained repositories.
 
 * My NPM packages: https://www.npmjs.com/~saitho
 
