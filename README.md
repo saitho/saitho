@@ -35,11 +35,10 @@ Open-sourcing software goes beyond just pushing some code onto GitHub. That's wh
 
 ## I'm contributing to awesome software
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saitho&" alt="saitho" /></p>
+
 <a align="left" href="https://github.com/go-gitea/gitea/pulls?q=is%3Apr+author%3Asaitho">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=go-gitea&repo=gitea" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats/pulls?q=is%3Apr+author%3Asaitho">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 
 <a align="left" href="https://github.com/semantic-release/semantic-release/pulls?q=is%3Apr+author%3Asaitho">
@@ -49,9 +48,10 @@ Open-sourcing software goes beyond just pushing some code onto GitHub. That's wh
 ### Other contributions
 
 * [Robo: Modern task runner for PHP](https://github.com/consolidation/Robo/pulls?q=is%3Apr+author%3Asaitho)
+* [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats/pulls?q=is%3Apr+author%3Asaitho)
 
 <hr />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saitho&show_icons=true&locale=en&layout=compact" alt="saitho" />&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=saitho&show_icons=true&locale=en&include_all_commits=true" alt="saitho" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saitho&" alt="saitho" /></p>
+
