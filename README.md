@@ -10,12 +10,15 @@
     <a href="https://github.com/saitho?tab=repositories&language=php" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=php&logoColor=white"></a>
     <a href="https://github.com/saitho?tab=repositories&language=typescript" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-2F74C0?style=flat-square&logo=typescript&logoColor=white"></a>
     <a href="https://github.com/saitho?tab=repositories&language=go" target="_blank"><img alt="GO" src="https://img.shields.io/badge/-Go-66D0DB?style=flat-square&logo=go&logoColor=white"></a>
+    <a href="https://symfony.com/" target="_blank"><img alt="Symfony" src="https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white"></a>
+    <a href="https://typo3.org/" target="_blank"><img alt="Symfony" src="https://img.shields.io/badge/-TYPO3%20CMS-F49700?style=flat-square&logo=typo3&logoColor=white"></a>
 </p>
 
 <p align="center">
     <a href="https://github.com/saitho?tab=repositories" target="_blank"><img alt="IntelliJ" src="https://img.shields.io/badge/-IntelliJ%20IDEA-darkgrey?style=flat-square&logo=intellij-idea&logoColor=white"></a>
     <a href="https://github.com/saitho?tab=repositories" target="_blank"><img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"></a>
     <a href="https://hub.docker.com/u/saitho" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"></a>
+    <a href="https://www.npmjs.com/~saitho" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/-NPM-C73536?style=flat-square&logo=npm&logoColor=white"></a>
 </p>
 
 <hr/>
@@ -27,9 +30,6 @@ Making software available for others to use and improve is a great thing, which 
 Open-sourcing software goes beyond just pushing some code onto GitHub. That's why I'll **regularly update the dependencies** of my active repositories each month. Please see my [maintainance project](https://github.com/saitho?tab=projects) for a list of maintained repositories.
 
 * My NPM packages: https://www.npmjs.com/~saitho
-
-[![TYPO3 Association Community Member](https://typo3.org/fileadmin/t3o_common_storage/images/badges/community_membership_badge_renderings/community_membership_badge_150x75.png "TYPO3 Association Community Member")](https://typo3.org/project/association/members)
-[![TYPO3 CMS Certified Integrator](images/TCCI_bagde_small_preview.png "TYPO3 CMS Certified Integrator")](https://typo3.org/certification/integrator/certified-integrator-listing)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saitho&row=1" alt="saitho" /></a> </p>
 
@@ -55,3 +55,5 @@ Open-sourcing software goes beyond just pushing some code onto GitHub. That's wh
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saitho&show_icons=true&locale=en&layout=compact" alt="saitho" />&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=saitho&show_icons=true&locale=en&include_all_commits=true" alt="saitho" /></p>
 
+[![TYPO3 Association Community Member](https://typo3.org/fileadmin/t3o_common_storage/images/badges/community_membership_badge_renderings/community_membership_badge_150x75.png "TYPO3 Association Community Member")](https://typo3.org/project/association/members)
+[![TYPO3 CMS Certified Integrator](images/TCCI_bagde_small_preview.png "TYPO3 CMS Certified Integrator")](https://typo3.org/certification/integrator/certified-integrator-listing)
