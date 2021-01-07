@@ -1,5 +1,8 @@
-[![saitho's GitHub stats](https://github-readme-stats.vercel.app/api?username=saitho&include_all_commits=true)](https://github.com/saitho?tab=repositories)
-[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saitho&hide=c%23,html,tex,c,c%2B%2B)](https://github.com/saitho?tab=repositories)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saitho&show_icons=true&locale=en&layout=compact" alt="saitho" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saitho&show_icons=true&locale=en&include_all_commits=true" alt="saitho" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saitho&" alt="saitho" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saitho&row=1" alt="saitho" /></a> </p>
 
 ## Open Source commitment
 
