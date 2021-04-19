@@ -37,16 +37,8 @@ Open-sourcing software goes beyond just pushing some code onto GitHub. That's wh
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saitho&" alt="saitho" /></p>
 
-<a align="left" href="https://github.com/go-gitea/gitea/pulls?q=is%3Apr+author%3Asaitho">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=go-gitea&repo=gitea" />
-</a>
-
-<a align="left" href="https://github.com/semantic-release/semantic-release/pulls?q=is%3Apr+author%3Asaitho">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=semantic-release&repo=semantic-release" />
-</a>
-
-### Other contributions
-
+* [Gitea: A self-hosted Git service](https://github.com/go-gitea/gitea/pulls?q=is%3Apr+author%3Asaitho)
+* [semantic-releases: Emotionless automated semantic releases](https://github.com/semantic-release/semantic-release/pulls?q=is%3Apr+author%3Asaitho)
 * [Robo: Modern task runner for PHP](https://github.com/consolidation/Robo/pulls?q=is%3Apr+author%3Asaitho)
 * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats/pulls?q=is%3Apr+author%3Asaitho)
 
