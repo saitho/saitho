@@ -49,3 +49,4 @@ Open-sourcing software goes beyond just pushing some code onto GitHub. That's wh
 
 [![TYPO3 Association Community Member](https://typo3.org/fileadmin/t3o_common_storage/images/badges/community_membership_badge_renderings/community_membership_badge_150x75.png "TYPO3 Association Community Member")](https://typo3.org/project/association/members)
 [![TYPO3 CMS Certified Integrator](images/TCCI_bagde_small_preview.png "TYPO3 CMS Certified Integrator")](https://typo3.org/certification/integrator/certified-integrator-listing)
+[![Unicode Emoji Bronze Sponsor](images/unicode-bronze-1F602.png "Unicode Emoji Bronze Sponsor laughing-Emoji")](https://unicode.org/consortium/adopted-characters.html#b1F602)
