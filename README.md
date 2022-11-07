@@ -1,25 +1,28 @@
 <p align="center">
     <a href="https://github.com/saitho" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@saitho-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/mariolubenka" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="https://stackoverflow.com/users/5457046/saitho" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
     <a href="https://www.researchgate.net/profile/Mario_Lubenka" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
     <a href="https://orcid.org/0000-0002-0149-0326" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
-    <a href="https://stackoverflow.com/users/5457046/saitho" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/saitho?tab=repositories&language=php" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=php&logoColor=white"></a>
-    <a href="https://github.com/saitho?tab=repositories&language=typescript" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-2F74C0?style=flat-square&logo=typescript&logoColor=white"></a>
-    <a href="https://github.com/saitho?tab=repositories&language=go" target="_blank"><img alt="GO" src="https://img.shields.io/badge/-Go-66D0DB?style=flat-square&logo=go&logoColor=white"></a>
-    <a href="https://symfony.com/" target="_blank"><img alt="Symfony" src="https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white"></a>
-    <a href="https://typo3.org/" target="_blank"><img alt="Symfony" src="https://img.shields.io/badge/-TYPO3%20CMS-F49700?style=flat-square&logo=typo3&logoColor=white"></a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/saitho?tab=repositories" target="_blank"><img alt="IntelliJ" src="https://img.shields.io/badge/-IntelliJ%20IDEA-darkgrey?style=flat-square&logo=intellij-idea&logoColor=white"></a>
-    <a href="https://github.com/saitho?tab=repositories" target="_blank"><img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"></a>
-    <a href="https://hub.docker.com/u/saitho" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"></a>
-    <a href="https://www.npmjs.com/~saitho" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/-NPM-C73536?style=flat-square&logo=npm&logoColor=white"></a>
-</p>
+<details>
+  <summary><b>🛠️ Tech Stack</b></summary>
+    <p>
+        
+| **Category** | **Technologies** |
+| - | - |
+**Frontend** | [![Symfony](https://img.shields.io/badge/-Bootstrap-7b00f6?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+**Frameworks** | [![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white)](https://symfony.com) [![TYPO3 CMS](https://img.shields.io/badge/-TYPO3%20CMS-F49700?style=flat-square&logo=typo3&logoColor=white)](https://typo3.org)
+**Core** | [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=FFFFFF)](https://www.javascript.com/) [![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=777BB4&logo=php&logoColor=FFFFFF)](https://www.php.net/) [![Go](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&logo=go&logoColor=FFFFFF)](https://go.dev/) [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=FFFFFF)](https://nodejs.org/)
+**DevOps** | [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://docker.com/) [![Ansible](https://img.shields.io/static/v1?label=&message=Ansible&color=EE0000&logo=ansible&logoColor=FFFFFF)](https://www.ansible.com/)
+**Testing** | [![Selenium](https://img.shields.io/static/v1?label=&message=Selenium&color=43B02A&logo=selenium&logoColor=FFFFFF)](https://www.selenium.dev/) [![Cypress](https://img.shields.io/static/v1?label=&message=Cypress&color=17202C&logo=cypress&logoColor=FFFFFF)](https://www.cypress.io/) [![Jest](https://img.shields.io/static/v1?label=&message=Jest&color=C21325&logo=jest&logoColor=FFFFFF)](https://jestjs.io/)
+**Misc** | [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)]([https://www.linux.org/](https://ubuntu.com/)) [![Bash](https://img.shields.io/static/v1?label=&message=Bash&color=4EAA25&logo=gnubash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/) [![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&color=000000&logo=markdown&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Markdown)
+**Editors** | [![Vim](https://img.shields.io/static/v1?label=&message=Vim&color=019733&logo=vim&logoColor=FFFFFF)](https://www.vim.org/) [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-darkgrey?style=flat-square&logo=intellij-idea&logoColor=white)]([https://code.visualstudio.com/](https://www.jetbrains.com/idea/))
+      
+ See **[➡️ Full Tech Stack](TECH-STACK.md)**, for a list of projects using each of the above technologies
+  </p>
+</details>
 
 <hr/>
 
