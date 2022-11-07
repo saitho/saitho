@@ -6,6 +6,15 @@
     <a href="https://orcid.org/0000-0002-0149-0326" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
 </p>
 
+<div align="center">
+<img width="500" src="assets/metrics/summary.svg" />
+<img width="500" src="assets/metrics/achievements.svg" />
+</div>
+<div align="center">
+<img width="500" src="assets/metrics/habits.svg" />
+<img width="500" src="assets/metrics/languages.svg" />
+</div>
+
 <details>
   <summary><b>🛠️ Tech Stack</b></summary>
     <p>
