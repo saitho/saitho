@@ -8,10 +8,9 @@
 
 <div align="center">
 <img width="500" src="assets/metrics/summary.svg" />
-<img width="500" src="assets/metrics/achievements.svg" />
 </div>
 <div align="center">
-<img width="500" src="assets/metrics/habits.svg" />
+
 <img width="500" src="assets/metrics/languages.svg" />
 </div>
 
@@ -32,18 +31,40 @@
  See **[➡️ Full Tech Stack](TECH-STACK.md)**, for a list of projects using each of the above technologies
   </p>
 </details>
-
-<hr/>
-
-## Open Source commitment
-
+<details>
+  <summary><b>👨‍💻 Coding stats</b></summary>
+    <p>
+        <img width="500" src="assets/metrics/habits.svg"><br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saitho&show_icons=true&locale=en&layout=compact" alt="saitho">
+    </p>
+</details>
+<details>
+  <summary><b>🐙💻 GitHub stats</b></summary>
+<p>
+   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saitho&row=1" alt="saitho" /></a><br/>
+<img width="500" src="assets/metrics/achievements.svg" />
+  </p>
+</details>
+<details>
+  <summary><b>🕊️ Open Source commitment</b></summary>
+    <p>
 Making software available for others to use and improve is a great thing, which is why I decided to open-source most of my work.
 
 Open-sourcing software goes beyond just pushing some code onto GitHub. That's why I'll **regularly update the dependencies** of my active repositories each month. Please see my [maintainance project](https://github.com/saitho?tab=projects) for a list of maintained repositories.
 
 * My NPM packages: https://www.npmjs.com/~saitho
+  </p>
+</details>
+<details>
+    <summary><b>🤝 Supporting others</b></summary>
+    <p>
+        <a href="https://typo3.org/project/association/members"><img alt="TYPO3 Association Community Member" src="https://typo3.org/fileadmin/t3o_common_storage/images/badges/community_membership_badge_renderings/community_membership_badge_150x75.png"></a>
+        <a href="https://typo3.org/certification/integrator/certified-integrator-listing"><img alt="TYPO3 CMS Certified Integrator" src="images/TCCI_bagde_small_preview.png"></a>
+        <a href="https://typo3.org/certification/integrator/certified-integrator-listing](https://unicode.org/consortium/adopted-characters.html#b1F602"><img alt="Unicode Emoji Bronze Sponsor" src="images/unicode-bronze-1F602.png"></a>
+    </p>
+    </details>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saitho&row=1" alt="saitho" /></a> </p>
+<hr/>
 
 ## I'm contributing to awesome software
 
@@ -53,20 +74,3 @@ Open-sourcing software goes beyond just pushing some code onto GitHub. That's wh
 * [semantic-releases: Emotionless automated semantic releases](https://github.com/semantic-release/semantic-release/pulls?q=is%3Apr+author%3Asaitho)
 * [Robo: Modern task runner for PHP](https://github.com/consolidation/Robo/pulls?q=is%3Apr+author%3Asaitho)
 * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats/pulls?q=is%3Apr+author%3Asaitho)
-
-<hr />
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saitho&show_icons=true&locale=en&layout=compact" alt="saitho" />&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=saitho&show_icons=true&locale=en&include_all_commits=true" alt="saitho" /></p>
-
-[![TYPO3 Association Community Member](https://typo3.org/fileadmin/t3o_common_storage/images/badges/community_membership_badge_renderings/community_membership_badge_150x75.png "TYPO3 Association Community Member")](https://typo3.org/project/association/members)
-[![TYPO3 CMS Certified Integrator](images/TCCI_bagde_small_preview.png "TYPO3 CMS Certified Integrator")](https://typo3.org/certification/integrator/certified-integrator-listing)
-[![Unicode Emoji Bronze Sponsor](images/unicode-bronze-1F602.png "Unicode Emoji Bronze Sponsor laughing-Emoji")](https://unicode.org/consortium/adopted-characters.html#b1F602)
-<!-- START OF PROFILE STACK, DO NOT REMOVE -->
-| 💻 **Technology** | 🚀 **Projects** |
-| - | - |
-| [![Go](https://img.shields.io/static/v1?label=&message=Go&color=85d3fd&logo=golang&logoColor=FFFFFF)](https://go.dev/) | [![getstackhead/stackhead](https://img.shields.io/static/v1?label=&message=stackhead&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/getstackhead/stackhead) |
-| [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=FFFFFF)](https://nodejs.org/) | [![semantic-release-gitea](https://img.shields.io/static/v1?label=&message=semantic-release-gitea&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/saitho/semantic-release-gitea) |
-| [![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=777BB4&logo=php&logoColor=FFFFFF)](https://www.php.net/) | [![saitho-cli](https://img.shields.io/static/v1?label=&message=saitho-cli&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/saitho/saitho-cli) |
-| [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=2973ce&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/) | [![twitter-translator-bot](https://img.shields.io/static/v1?label=&message=twitter-translator-bot&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/saitho/twitter-translator-bot) [![amp-css](https://img.shields.io/static/v1?label=&message=amp-css&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/saitho/amp-css) [![bingo](https://img.shields.io/static/v1?label=&message=bingo&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/saitho/bingo) [![ts-appversion](https://img.shields.io/static/v1?label=&message=ts-appversion&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/saitho/ts-appversion) [![semantic-release-backmerge](https://img.shields.io/static/v1?label=&message=semantic-release-backmerge&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/saitho/semantic-release-backmerge) |
-<!-- END OF PROFILE STACK, DO NOT REMOVE -->
