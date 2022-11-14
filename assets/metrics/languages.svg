@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 10.6mb of code in 1297 edited files across 1196 commits</small>
+                <small>estimation from 10.6mb of code in 1279 edited files across 1175 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="82.06701359397255" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="82.06701359397255" y="0" width="19.47609736749421" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="101.54311096146675" y="0" width="9.921906126705657" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="111.4650170881724" y="0" width="5.8077690284472805" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="117.27278611661968" y="0" width="1.504912820211232" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="118.77769893683093" y="0" width="1.17907309288546" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="119.95677202971639" y="0" width="0.6795530122278206" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="120.63632504194422" y="0" width="339.3636749580558" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="82.56131123941098" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="82.56131123941098" y="0" width="19.593403805848496" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="102.15471504525948" y="0" width="9.981666737234953" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="112.13638178249442" y="0" width="5.618070446304087" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="117.75445222879851" y="0" width="1.5139770572419697" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="119.26842928604047" y="0" width="1.1861747653856505" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="120.45460405142613" y="0" width="0.68364602645101" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="121.13825007787713" y="0" width="338.8617499221229" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -103,8 +103,8 @@
                                 Go
                             </div>
                             <small>
-                                <div>4.81k lines</div>
-                                <div>134 kB</div>
+                                <div>4.61k lines</div>
+                                <div>129 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -127,8 +127,8 @@
                                 Other
                             </div>
                             <small>
-                                <div>216k lines</div>
-                                <div>7.85 MB</div>
+                                <div>215k lines</div>
+                                <div>7.79 MB</div>
                             </small>
                         </div>
                     </section>
@@ -146,7 +146,7 @@
                 <h3 class="field">Recently used languages</h3>
                 <small>No recent push activity found
                 
-                  over last 90 days</small>
+                  over last 91 days</small>
                 <div class="row fill-width">
                     <section>
                     </section>
