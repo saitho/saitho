@@ -29,7 +29,7 @@ Total starred repositories: `98`
 
 ## Astro
 
-  - [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) -  \[*MIT License*\] (⭐️13889)
+  - [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) -  \[*MIT License*\] (⭐️13888)
 
 ## C#
 
@@ -37,31 +37,31 @@ Total starred repositories: `98`
 
 ## C++
 
-  - [Aegisub/Aegisub](https://github.com/Aegisub/Aegisub) - Cross-platform advanced subtitle editor (⭐️2196)
+  - [Aegisub/Aegisub](https://github.com/Aegisub/Aegisub) - Cross-platform advanced subtitle editor (⭐️2197)
   - [edo9300/edopro](https://github.com/edo9300/edopro) - A script engine for "yu-gi-oh!" and sample gui (former "ygopro") (⭐️226)
   - [muriloadriano/cleverbot](https://github.com/muriloadriano/cleverbot) - An extensible IRC bot implemented using C++11 and Boost.Asio \[*MIT License*\] (⭐️19)
-  - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org \[*MIT License*\] (⭐️8176)
-  - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone \[*Apache License 2.0*\] (⭐️171109)
+  - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org \[*MIT License*\] (⭐️8177)
+  - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone \[*Apache License 2.0*\] (⭐️171124)
   - [xfjx/TonUINO](https://github.com/xfjx/TonUINO) - Die DIY Musikbox (nicht nur) für Kinder \[*GNU GPLv3*\] (⭐️419)
 
 ## Go
 
   - [agola-io/agola](https://github.com/agola-io/agola) - Agola: CI/CD Redefined \[*Apache License 2.0*\] (⭐️1228)
-  - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes. \[*Apache License 2.0*\] (⭐️12049)
+  - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes. \[*Apache License 2.0*\] (⭐️12052)
   - [drud/ddev](https://github.com/drud/ddev) - Docker-based local PHP+Node.js web development environments \[*Apache License 2.0*\] (⭐️1680)
-  - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service \[*MIT License*\] (⭐️34642)
-  - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics \[*GNU GPLv3*\] (⭐️1271)
-  - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 \[*MIT License*\] (⭐️34819)
+  - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service \[*MIT License*\] (⭐️34652)
+  - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics \[*GNU GPLv3*\] (⭐️1272)
+  - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 \[*MIT License*\] (⭐️34832)
   - [TheNaoX/woodo](https://github.com/TheNaoX/woodo) - Sudo woodo script in Go (⭐️4)
   - [tidbyt/pixlet](https://github.com/tidbyt/pixlet) - Build apps for pixel-based displays ✨ \[*Apache License 2.0*\] (⭐️579)
-  - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system. \[*Apache License 2.0*\] (⭐️2131)
+  - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system. \[*Apache License 2.0*\] (⭐️2133)
 
 ## HTML
 
   - [briancherne/jquery-hoverIntent](https://github.com/briancherne/jquery-hoverIntent) - hoverIntent jQuery Plug-in (⭐️826)
   - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon! \[*MIT License*\] (⭐️4033)
   - [NUKnightLab/soundcite](https://github.com/NUKnightLab/soundcite) - Making Inline Audio Easy and Seamless (⭐️191)
-  - [solid/solid](https://github.com/solid/solid) - Solid - Re-decentralizing the web (project directory) \[*MIT License*\] (⭐️8179)
+  - [solid/solid](https://github.com/solid/solid) - Solid - Re-decentralizing the web (project directory) \[*MIT License*\] (⭐️8178)
   - [solid/specification](https://github.com/solid/specification) - Solid Technical Reports \[*MIT License*\] (⭐️389)
   - [space10-community/conversational-form](https://github.com/space10-community/conversational-form) - Turning web forms into conversations \[*MIT License*\] (⭐️3724)
 
@@ -74,30 +74,30 @@ Total starred repositories: `98`
 
 ## JavaScript
 
-  - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system \[*MIT License*\] (⭐️5891)
-  - [adamgruber/mochawesome](https://github.com/adamgruber/mochawesome) - A Gorgeous HTML/CSS Reporter for Mocha.js \[*MIT License*\] (⭐️1004)
+  - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system \[*MIT License*\] (⭐️5895)
+  - [adamgruber/mochawesome](https://github.com/adamgruber/mochawesome) - A Gorgeous HTML/CSS Reporter for Mocha.js \[*MIT License*\] (⭐️1003)
   - [ampproject/amphtml](https://github.com/ampproject/amphtml) - The AMP web component framework. \[*Apache License 2.0*\] (⭐️14942)
-  - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes \[*MIT License*\] (⭐️51781)
-  - [auchenberg/volkswagen](https://github.com/auchenberg/volkswagen) - :see_no_evil: Volkswagen detects when your tests are being run in a CI server, and makes them pass. \[*MIT License*\] (⭐️12599)
+  - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes \[*MIT License*\] (⭐️51800)
+  - [auchenberg/volkswagen](https://github.com/auchenberg/volkswagen) - :see_no_evil: Volkswagen detects when your tests are being run in a CI server, and makes them pass. \[*MIT License*\] (⭐️12598)
   - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻 \[*MIT License*\] (⭐️4092)
   - [dangrossman/daterangepicker](https://github.com/dangrossman/daterangepicker) - JavaScript Date Range, Date and Time Picker Component (⭐️10576)
   - [dzek69/docker-windows-notifier](https://github.com/dzek69/docker-windows-notifier) - Painless developing with Docker on Windows. \[*MIT License*\] (⭐️14)
   - [feross/thanks](https://github.com/feross/thanks) - 🙌 Give thanks to the open source maintainers you depend on! ✨ (⭐️2762)
-  - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework \[*MIT License*\] (⭐️63105)
+  - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework \[*MIT License*\] (⭐️63108)
   - [heiseonline/embetty](https://github.com/heiseonline/embetty) - 🐙 Embetty displays remote content like tweets or YouTube videos without compromising your privacy. \[*MIT License*\] (⭐️876)
   - [hsiW/WishBot](https://github.com/hsiW/WishBot) - The development of WishBot Core (the system previously behind Yuki-chan) \[*MIT License*\] (⭐️37) *Archived!*
-  - [httpcats/http.cat](https://github.com/httpcats/http.cat) - :cat: HTTP Cats API \[*MIT License*\] (⭐️2091)
+  - [httpcats/http.cat](https://github.com/httpcats/http.cat) - :cat: HTTP Cats API \[*MIT License*\] (⭐️2092)
   - [Js41637/Overwatch-Item-Tracker](https://github.com/Js41637/Overwatch-Item-Tracker) - Overwatch Item Tracker - Track what event items you have unlocked (⭐️245)
   - [KoryNunn/gaffa-template](https://github.com/KoryNunn/gaffa-template) - A template application for the gaffa framework \[*MIT License*\] (⭐️2)
-  - [NUKnightLab/TimelineJS3](https://github.com/NUKnightLab/TimelineJS3) - TimelineJS v3: A Storytelling Timeline built in JavaScript.  http://timeline.knightlab.com \[*Mozilla Public License 2.0*\] (⭐️2661)
+  - [NUKnightLab/TimelineJS3](https://github.com/NUKnightLab/TimelineJS3) - TimelineJS v3: A Storytelling Timeline built in JavaScript.  http://timeline.knightlab.com \[*Mozilla Public License 2.0*\] (⭐️2662)
   - [semantic-release/github](https://github.com/semantic-release/github) - :octocat:  semantic-release plugin to publish a GitHub release and comment on released Pull Requests/Issues \[*MIT License*\] (⭐️312)
-  - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing (⭐️17253)
+  - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing (⭐️17257)
 
 ## Kotlin
 
   - [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) - Native Android app using the Apple/Google exposure notification API. \[*Apache License 2.0*\] (⭐️2486)
   - [detekt/sonar-kotlin](https://github.com/detekt/sonar-kotlin) - SonarQube plugin for Kotlin \[*GNU LGPLv3*\] (⭐️474)
-  - [mockito/mockito-kotlin](https://github.com/mockito/mockito-kotlin) - Using Mockito with Kotlin \[*MIT License*\] (⭐️2958)
+  - [mockito/mockito-kotlin](https://github.com/mockito/mockito-kotlin) - Using Mockito with Kotlin \[*MIT License*\] (⭐️2957)
   - [proxer/ProxerAndroid](https://github.com/proxer/ProxerAndroid) - The official Android App of Proxer.Me \[*GNU GPLv3*\] (⭐️107)
 
 ## Markdown
@@ -116,21 +116,21 @@ Total starred repositories: `98`
 ## Python
 
   - [asozialesnetzwerk/kaenguru-soundboard](https://github.com/asozialesnetzwerk/kaenguru-soundboard) - Verschoben nach: https://github.com/asozialesnetzwerk/an-website/tree/main/an_website/kangaroo_soundboard (⭐️3) *Archived!*
-  - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. \[*MIT License*\] (⭐️3149)
+  - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. \[*MIT License*\] (⭐️3152)
   - [mozilla/DeepSpeech-examples](https://github.com/mozilla/DeepSpeech-examples) - Examples of how to use or integrate DeepSpeech (⭐️672)
   - [rainyDayDevs/twitter-saucenao](https://github.com/rainyDayDevs/twitter-saucenao) - A Twitter bot that utilizes the SauceNao API to find the source of images or anime screencaps \[*GNU AGPLv3*\] (⭐️261)
   - [vanstorm9/yugioh-one-shot-learning](https://github.com/vanstorm9/yugioh-one-shot-learning) - One shot learning (image recognition) on 10,856 unique Yugioh cards (⭐️60)
-  - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes \[*The Unlicense*\] (⭐️39292)
-  - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites \[*The Unlicense*\] (⭐️117237)
+  - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes \[*The Unlicense*\] (⭐️39324)
+  - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites \[*The Unlicense*\] (⭐️117249)
 
 ## Ruby
 
-  - [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages (⭐️12940)
+  - [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages (⭐️12941)
 
 ## Rust
 
-  - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. \[*MIT License*\] (⭐️87923)
-  - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! \[*ISC License*\] (⭐️32437)
+  - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. \[*MIT License*\] (⭐️87928)
+  - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! \[*ISC License*\] (⭐️32443)
 
 ## SCSS
 
@@ -152,36 +152,36 @@ Total starred repositories: `98`
 ## TypeScript
 
   - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning \[*MIT License*\] (⭐️1331)
-  - [alephjs/aleph.js](https://github.com/alephjs/aleph.js) - The Full-stack Framework in Deno. \[*MIT License*\] (⭐️5011)
+  - [alephjs/aleph.js](https://github.com/alephjs/aleph.js) - The Full-stack Framework in Deno. \[*MIT License*\] (⭐️5012)
   - [AnandChowdhary/hovercard](https://github.com/AnandChowdhary/hovercard) - 🖱️ Wikipedia summary cards for the web \[*The Unlicense*\] (⭐️85)
-  - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - Happy DOM is a JavaScript implementation of a web browser without its graphical user interface. It includes many web standards from WHATWG DOM and HTML. \[*MIT License*\] (⭐️1681)
+  - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - Happy DOM is a JavaScript implementation of a web browser without its graphical user interface. It includes many web standards from WHATWG DOM and HTML. \[*MIT License*\] (⭐️1682)
   - [causztic/reol-chan](https://github.com/causztic/reol-chan) - discord bot for /r/reol (⭐️5)
   - [Dragicafit/Anime-Watch-Parties](https://github.com/Dragicafit/Anime-Watch-Parties) - A cross-platform extension that synchronizes videos on major anime websites. \[*MIT License*\] (⭐️12)
-  - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser. \[*Apache License 2.0*\] (⭐️18310)
-  - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding \[*Modified BSD License*\] (⭐️17351)
-  - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️ \[*MIT License*\] (⭐️16951)
-  - [PLhery/node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2) - Strongly typed, full-featured, light, versatile yet powerful Twitter API v1.1 and v2 client for Node.js. \[*Apache License 2.0*\] (⭐️941)
-  - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups \[*MIT License*\] (⭐️15680)
+  - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser. \[*Apache License 2.0*\] (⭐️18312)
+  - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding \[*Modified BSD License*\] (⭐️17353)
+  - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️ \[*MIT License*\] (⭐️16956)
+  - [PLhery/node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2) - Strongly typed, full-featured, light, versatile yet powerful Twitter API v1.1 and v2 client for Node.js. \[*Apache License 2.0*\] (⭐️940)
+  - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups \[*MIT License*\] (⭐️15679)
   - [remotion-dev/trailer](https://github.com/remotion-dev/trailer) - The promo video for Remotion (⭐️1015)
-  - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme \[*MIT License*\] (⭐️3364)
+  - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme \[*MIT License*\] (⭐️3365)
   - [saitho/discord-bot-reloaded](https://github.com/saitho/discord-bot-reloaded) - Re-iteration of my Discord bot to use Slash Commands API (⭐️1)
-  - [saitho/semantic-release-backmerge](https://github.com/saitho/semantic-release-backmerge) - :twisted_rightwards_arrows: semantic-release plugin to back-merge a release into a develop branch (⭐️42)
+  - [saitho/semantic-release-backmerge](https://github.com/saitho/semantic-release-backmerge) - :twisted_rightwards_arrows: semantic-release plugin to back-merge a release into a develop branch (⭐️43)
   - [samuelmaddock/metastream](https://github.com/samuelmaddock/metastream) - Watch streaming media with friends. (⭐️2199)
-  - [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨ (⭐️26938)
+  - [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨ (⭐️26969)
 
 ## Unknown
 
-  - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates \[*Creative Commons Zero v1.0 Universal*\] (⭐️144147)
+  - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates \[*Creative Commons Zero v1.0 Universal*\] (⭐️144172)
   - [Lissy93/Lissy93](https://github.com/Lissy93/Lissy93) - 🥳 Hello World! (⭐️39)
   - [mame82/LucaAppIssues](https://github.com/mame82/LucaAppIssues) - Dokumentation zu Fehlern im Fachsystem Luca (und der LucaApp) (⭐️33)
   - [ocean1/awesome-thesis](https://github.com/ocean1/awesome-thesis) - A curated list of practical tips and tricks to help you achieve an awesome CS master thesis [WIP] - contributions are welcome \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️543)
 
 ## Vue
 
-  - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for. \[*MIT License*\] (⭐️2407)
+  - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for. \[*MIT License*\] (⭐️2410)
   - [statping-ng/statping-ng](https://github.com/statping-ng/statping-ng) - An updated drop-in for statping. A Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment. \[*GNU GPLv3*\] (⭐️661)
 
 ## Zig
 
-  - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. (⭐️38823)
+  - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. (⭐️38829)
 
