@@ -30,6 +30,8 @@
       
  See **[➡️ Full Tech Stack](TECH-STACK.md)**, for a list of projects using each of the above technologies
   </p>
+    
+  <img src="https://pimcore.com/academy/certificate-validation/badge/NXKJYLSCDVZGEPH" />
 </details>
 <details>
   <summary><b>👨‍💻 Coding stats</b></summary>
