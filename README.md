@@ -32,6 +32,7 @@
   </p>
     
   <img src="https://pimcore.com/academy/certificate-validation/badge/NXKJYLSCDVZGEPH" />
+  <img src="https://pimcore.com/academy/certificate-validation/badge/Z2A58DHVSNUFLCM" />
 </details>
 <details>
   <summary><b>👨‍💻 Coding stats</b></summary>
