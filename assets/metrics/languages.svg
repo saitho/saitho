@@ -45,16 +45,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 199kb of code in 557 edited files across 51 commits over last 92 days</small>
+                <small>estimation from 177kb of code in 536 edited files across 41 commits over last 89 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="376.97725605282466" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="376.97725605282466" y="0" width="48.261188554658844" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="425.2384446074835" y="0" width="18.899486426999264" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="444.1379310344828" y="0" width="15.862068965517242" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="390.4407294832827" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="390.4407294832827" y="0" width="49.98480243161094" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="440.42553191489367" y="0" width="19.574468085106382" height="8" fill="#878787"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -94,18 +93,6 @@
                             <small>
                                 <div>2 lines</div>
                                 <div>143 bytes</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                JavaScript
-                            </div>
-                            <small>
-                                <div>3 lines</div>
-                                <div>47 bytes</div>
                             </small>
                         </div>
                     </section>
