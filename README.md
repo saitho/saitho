@@ -55,6 +55,9 @@
     </p>
     </details>
 
+<a href="https://my.typo3.org/u/saitho"><img alt="TYPO3 CMS Certified Integrator" src="images/TCCI_bagde_small_preview.png"></a>
+<a href="https://my.typo3.org/u/saitho"><img alt="TYPO3 CMS Certified Developer" src="images/TCCD_bagde_small_preview.png"></a>
+
 <hr/>
 
 ## I'm contributing to awesome software
