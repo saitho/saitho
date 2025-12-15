@@ -31,10 +31,6 @@
  See **[➡️ Full Tech Stack](TECH-STACK.md)**, for a list of projects using each of the above technologies
   </p>
     
-  <img src="https://pimcore.com/academy/certificate-validation/badge/NXKJYLSCDVZGEPH" />
-  <img src="https://pimcore.com/academy/certificate-validation/badge/Z2A58DHVSNUFLCM" />
-  <img src="https://pimcore.com/academy/certificate-validation/badge/XE2PDK75MASU4TW" />
-  <img src="https://pimcore.com/academy/certificate-validation/badge/D1CGL9QWPMY243V" />
 </details>
 <details>
   <summary><b>👨‍💻 Coding stats</b></summary>
@@ -48,16 +44,6 @@
 <p>
    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saitho&row=1" alt="saitho" /></a><br/>
 <img width="500" src="assets/metrics/achievements.svg" />
-  </p>
-</details>
-<details>
-  <summary><b>🕊️ Open Source commitment</b></summary>
-    <p>
-Making software available for others to use and improve is a great thing, which is why I decided to open-source most of my work.
-
-Open-sourcing software goes beyond just pushing some code onto GitHub. That's why I'll **regularly update the dependencies** of my active repositories each month. Please see my [maintainance project](https://github.com/saitho?tab=projects) for a list of maintained repositories.
-
-* My NPM packages: https://www.npmjs.com/~saitho
   </p>
 </details>
 <details>
